@@ -1,0 +1,6 @@
+Els valors de la X i la Y están fets per a que el fill acabe
+abans que el pare, d´aquesta forma mentre el pare esta 'sleep'
+el fill pasará a mode <defunct> (zombie) a que acabe el pare. Una
+vegada a mort el pare el fill passa ser orfre y el seu ppid pasa a
+ser 1 (el pid de init). Aquest s´encarregarà d´eliminar a tots els
+zombies amb wait().

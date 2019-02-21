@@ -1,0 +1,14 @@
+total 88
+-rwxrwxr-x 1 alejandro alejandro 8480 Dec 12 15:14 descriptor
+-rw-rw-r-- 1 alejandro alejandro  633 Dec 12 15:13 descriptor.c
+-rwxrwxr-x 1 alejandro alejandro 8400 Dec 12 15:18 descriptor_output
+-rw-rw-r-- 1 alejandro alejandro  770 Dec 12 15:18 descriptor_output.c
+-rwxrwxr-x 1 alejandro alejandro 8472 Dec 12 15:36 ls_redir
+-rw-rw-r-- 1 alejandro alejandro  484 Dec 12 15:36 ls_redir.c
+-rwx------ 1 alejandro alejandro   47 Dec 12 15:23 messages.txt
+-rwx------ 1 alejandro alejandro    0 Dec 12 15:36 output_2.txt
+-rwx------ 1 alejandro alejandro   23 Dec 12 15:29 output.txt
+-rwxrwxr-x 1 alejandro alejandro 8656 Dec 12 15:29 redir_output
+-rw-rw-r-- 1 alejandro alejandro  604 Dec 12 15:29 redir_output.c
+-rwxrwxr-x 1 alejandro alejandro 8560 Dec 12 15:23 share
+-rw-rw-r-- 1 alejandro alejandro  743 Dec 12 15:23 share_file.c
